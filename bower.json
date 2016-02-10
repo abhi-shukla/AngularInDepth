@@ -1,0 +1,23 @@
+{
+  "name": "SinglePageApp",
+  "version": "0.0.0",
+  "authors": [
+    "Abhishek Shukla"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.2.0"
+  },
+  "devDependencies": {
+    "angular": "~1.2.26",
+    "angular-route": "~1.2.26",
+    "bootstrap": "~3.3.6"
+  }
+}
